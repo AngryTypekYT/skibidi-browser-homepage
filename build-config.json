@@ -1,0 +1,25 @@
+{
+  "number_of_images": 1,
+  "shortcuts": [
+    {
+      "title": "Bing (bro thought he can use google)",
+      "url": "https://www.bing.com",
+      "position": 5
+    },
+    {
+      "title": "Outlook (no gmail sorry)",
+      "url": "https://outlook.office365.com/",
+      "position": 6
+    },
+    {
+      "title": "c.ai",
+      "url": "https:/character.ai",
+      "position": 7
+    },
+    {
+      "title": "Microsoft Copilot (no chatgpt for you you lazy nigga)",
+      "url": "https://bing.com/chat",
+      "position": 8
+    }
+  ]
+}
